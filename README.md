@@ -6,3 +6,5 @@ _______________
 ## Projeto de Credit Scoring
 _______________
 ## Aplicação com Streamlit:
+
+[streamlit-app.webm](https://github.com/user-attachments/assets/3c28d5d6-d8eb-4431-91f6-9bdee0b03d5f)
