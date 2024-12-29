@@ -3,5 +3,6 @@
 _______________
 # Regressão Logística II
 
-## Projeto de Score Credit
+## Projeto de Credit Scoring
 _______________
+## Aplicação com Streamlit:
