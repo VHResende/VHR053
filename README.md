@@ -2,4 +2,6 @@
 **Victor Resende**
 _______________
 # Regressão Logística II
+
+## Projeto de Score Credit
 _______________
